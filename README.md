@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Mathys (@johnmathysuob)
-- 👀 I’m interested in many mnay things including but not limited to Continuous Delivery, infrastructure as code, Azure, C# and PowerShell.
+- 👀 I’m interested in many many things including but not limited to Continuous Delivery, infrastructure as code, Azure, C# and PowerShell.
 - 🌱 I’m currently learning GitHub (very slowly), APIs.
 - 💞️ I’m looking to collaborate on creation and automation of pipelines to create and maintain Azure Functions.
 - 📫 How to reach me, best to email me.
